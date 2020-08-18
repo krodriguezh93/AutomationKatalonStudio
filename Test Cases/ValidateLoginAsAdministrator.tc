@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ValidateLoginAsAdministrator</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e59bb0a7-08fa-4936-bd00-e9c83d16ff82</testCaseGuid>
+</TestCaseEntity>
